@@ -1,4 +1,7 @@
-Disease Pattern Detection Report
-Total Patients: 768
-Diabetic Count: 268
-Non-Diabetic Count: 500
+--- DISEASE PATTERN DETECTION REPORT ---
+Total Patients Analyzed : 768
+Diabetic Count          : 268 (34.9%)
+Non-Diabetic Count      : 500
+High Glucose Pattern    : 192 (25.0%)
+----------------------------------------
+Report generated successfully using Python Unit 1-6 features.
