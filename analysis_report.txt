@@ -1,0 +1,4 @@
+Disease Pattern Detection Report
+Total Patients: 768
+Diabetic Count: 268
+Non-Diabetic Count: 500
